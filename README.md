@@ -1,1 +1,1 @@
-# chiissu-icons
+# icons
